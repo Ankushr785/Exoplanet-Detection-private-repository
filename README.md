@@ -1,1 +1,1 @@
-Exoplanet Detection
+**Exoplanet Detection**
